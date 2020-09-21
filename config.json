@@ -1,0 +1,13 @@
+{
+    "output" : {
+        "title" : "CIP - Agenda",
+        "filename" : "cip.ics",
+        "link" : ""
+    },
+    "cip" :{
+        "url" : "http://www.cip-paris.fr/lenfance-de-lart",
+        "prefix" : "http://www.cip-paris.fr"
+    }
+    
+}
+
